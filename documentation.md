@@ -59,4 +59,16 @@ The impact-effort matrix suggests that the ideas which prioritise entertainment 
 Idea | Plus | Minus | Implication
 | - | - | - | - |
 | Wikipedia | Educates the user on an extremely large amount of topics, being very influential for education and personal research. | Some may claim the articles are unreliable as many articles can be edited by anyone and everyone. | Generally a very positive and influential website, as the negative aspects are rectified by heavy moderation.
-| Internet Archive | Saves many years of internet history and gives us a look back on how different websites used to look | Some suggest it isn't regulated very well | Generally a useful and interesting tool
+| Internet Archive | Saves many years of internet history and gives us a look back on how different websites used to look | Some suggest it isn't regulated very well, leading to piracy concerns | Generally a useful and interesting tool
+| Fandom | Gives useful information on a variety of entertainment | Some users say it is too ad-heavy | Popular and a great tool for fans of games, shows, and movies, especially artists or writers
+
+## Secondary Research
+Medical misogyny is a serious and promiminent issue both within the medical research field, but also in medical practice. The stigmatisation of women's health issues such as sexual and reproductive health care (like STI treatment, abortion, and contraception), mental health conditions, menstrual problems and more, lead to possibly life-threatening consequences for struggling women. According to the Australian Department of Health, 2 in 3 women experience discrimination in healthcare at some point in their lives.
+
+Stigmatisation of women's health problems can lead to medical malpractice, incorrect diagnoses, ignorance to serious health conditions, and more. By bringing light to these health issues, their consequences, their symptoms, as well as the prevalence of medical misogyny, we increase awareness and support women who are at risk due to being discriminated against.
+
+https://www.health.gov.au/ministers/the-hon-ged-kearney-mp/media/2-out-of-3-women-experience-discrimination-in-healthcare-0?language=en
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7887974/
+https://womenshealth.gov/nwhw/day-4-talk-about-it-reducing-womens-health-stigma
+
+## Primary Research
