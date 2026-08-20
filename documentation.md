@@ -44,7 +44,7 @@ The impact-effort matrix suggests that the ideas which prioritise entertainment 
     - A randomisation feature
     - A login option (to be able to comment)
     - An ability to comment (using flask)
-- The user should have the ability to request new pages to be added 
+- The user should have the ability to request new pages to be added
 
 ### Non-Functional Requirements
 - The website's navigation should be accessible and easy
@@ -72,3 +72,4 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC7887974/
 https://womenshealth.gov/nwhw/day-4-talk-about-it-reducing-womens-health-stigma
 
 ## Primary Research
+Results from the survey tba
