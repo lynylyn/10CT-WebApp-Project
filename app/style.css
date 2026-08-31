@@ -1,0 +1,29 @@
+html{
+    background-color: rgb(225,212,197);
+}
+
+@font-face {
+  font-family: myFont;
+  src: url(Msgothic.ttc);
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #613A2B;
+  color: #E1D4C5;
+  font-size: 30px;
+  font-family: myFont;
+}
+
+a:link {
+  color: #E1D4C5;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #af9c87;
+  background-color: transparent;
+  text-decoration: underline;
+}
