@@ -14,6 +14,7 @@ html{
   color: #E1D4C5;
   font-size: 30px;
   font-family: myFont;
+  margin-bottom: 20px
 }
 
 a:link {
@@ -26,4 +27,30 @@ a:hover {
   color: #af9c87;
   background-color: transparent;
   text-decoration: underline;
+}
+
+h2 {
+  display: block;
+  font-size: 4em;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  margin-left: 0.1em;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+.featuredarticle {
+  width:959.5px;
+  color: #E1D4C5;
+  background-color: #80916D;
+  border-radius: 25px;
+  padding: 10px
+}
+
+.featuredsummary {
+  width:959.5px;
+  color: #4B4D26;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size: 1.5em
 }
