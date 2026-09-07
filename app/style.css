@@ -13,7 +13,12 @@ html{
   background: #613A2B;
   color: #E1D4C5;
   font-size: 30px;
-  font-family: myFont;
+  font-family: myFont
+}
+
+#rectangle {
+  height: 35px;
+  background: #9B6A5B;
   margin-bottom: 20px
 }
 
@@ -29,6 +34,12 @@ a:hover {
   text-decoration: underline;
 }
 
+a:visited {
+  color: #E1D4C5;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 h2 {
   display: block;
   font-size: 4em;
@@ -42,7 +53,7 @@ h2 {
 .featuredarticle {
   width:959.5px;
   color: #E1D4C5;
-  background-color: #80916D;
+  background-color: #4B4D26;
   border-radius: 25px;
   padding: 10px
 }
@@ -50,7 +61,40 @@ h2 {
 .featuredsummary {
   width:959.5px;
   color: #4B4D26;
-  margin-top: 20px;
-  margin-left: 20px;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-bottom: 20px;
   font-size: 1.5em
+}
+
+.button:link {
+  background-color: #4B4D26;
+  border: none;
+  color: #E1D4C5;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  width:347px;
+  height:25px;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 1.5em
+}
+
+.button:hover {
+  background-color: #9B6A5B;
+  color: #613A2B;
+  text-decoration:none
+}
+
+#arrow {
+  z-index: 0;
+  position: relative;
+  bottom: 40px;
+  left: 310px;
+}
+
+.homepageimage{
+  tbd
 }
