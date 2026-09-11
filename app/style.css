@@ -12,7 +12,7 @@ html{
   text-align: center;
   background: #613A2B;
   color: #E1D4C5;
-  font-size: 30px;
+  font-size: 28px;
   font-family: myFont
 }
 
@@ -34,8 +34,8 @@ a:hover {
   text-decoration: underline;
 }
 
-a:visited {
-  color: #E1D4C5;
+a {
+  color: inherit;
   background-color: transparent;
   text-decoration: none;
 }
@@ -51,7 +51,7 @@ h2 {
 }
 
 .featuredarticle {
-  width:959.5px;
+  width: 50%;
   color: #E1D4C5;
   background-color: #4B4D26;
   border-radius: 25px;
@@ -59,7 +59,7 @@ h2 {
 }
 
 .featuredsummary {
-  width:959.5px;
+  width: 50%;
   color: #4B4D26;
   margin-top: 15px;
   margin-left: 10px;
@@ -75,11 +75,11 @@ h2 {
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
-  width:347px;
+  width:25%;
   height:25px;
   border-radius: 25px;
   padding: 10px;
-  font-size: 1.5em
+  font-size: 1.5em;
 }
 
 .button:hover {
@@ -91,10 +91,33 @@ h2 {
 #arrow {
   z-index: 0;
   position: relative;
-  bottom: 40px;
-  left: 310px;
+  bottom: 41px;
+  left: 275px;
 }
 
 .homepageimage{
-  tbd
+  color:black;
+  position:relative;
+  bottom:430px;
+}
+
+.articlepreview{
+  width: 25%;
+  height: 340px;
+  color: #E1D4C5;
+  background-color: #4B4D26;
+  border-radius: 25px;
+  padding: 10px
+}
+
+#previewpfp{
+  z-index: 0;
+  position: relative
+}
+
+#previewusername{
+  font-size: 1.5em;
+  position: relative;
+  bottom: 44px;
+  left: 60px
 }
