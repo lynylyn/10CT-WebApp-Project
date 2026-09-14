@@ -35,7 +35,7 @@ a:hover {
 }
 
 a {
-  color: inherit;
+  color: #E1D4C5;
   background-color: transparent;
   text-decoration: none;
 }
@@ -103,11 +103,12 @@ h2 {
 
 .articlepreview{
   width: 25%;
-  height: 340px;
   color: #E1D4C5;
   background-color: #4B4D26;
   border-radius: 25px;
-  padding: 10px
+  padding: 10px;
+  font-size: 20px;
+  margin-bottom: 15px;
 }
 
 #previewpfp{
@@ -116,8 +117,9 @@ h2 {
 }
 
 #previewusername{
-  font-size: 1.5em;
+  font-size: 25px;
   position: relative;
   bottom: 44px;
-  left: 60px
+  left: 60px;
+  margin-bottom: -23px
 }
