@@ -124,5 +124,16 @@ My target market for this product is generally quite broad; it can appeal to doc
 
 The survey results generally show a liking towards the website and a desire to know more about women's health. While many women my age haven't experienced medical misogyny, a notable majority either say they have or they aren't sure. Moving forward, this data will give me some example articles to include in the project, as well as a clearer view of the target demographics.
 
+## UI/UX Design
+![Paper Wireframes & Storyboard - 1](<CS wireframe 2.jpg>)
+![Paper Wireframes & Storyboard - 2](<CS wireframe.jpg>)
+![Wireframe 1](<wireframes1.png>)
+![Wireframe 2](<wireframes2.png>)
+
+
 # Evaluation
-ayo!
+## Social, Ethical & Legal Responsibilities
+A fair few social, ethical, & legal issues do pop up when considering a topic which is deeply sensitive to many people. The first of these to consider is the sensitive topics being discussed on the website; many people, specifically women, struggle with the topics discussed on the page and thus the topics should be approached with caution and empathy for those going through the conditions explored. Another more legal issue which needs to be brought to attention is the usage of external articles. The naming of the non-profit companies as a source at the very top of the article can help to rectify this, however, in real-world implementation, a better idea would be to have the website be fully user-written - with articles being submitted by the user base. This could avoid any potential copyright issues. The responsibility to handle women's health problems with care and respect is deeply important to the core of the website, and what it was made for.
+
+## Project Evaluation
+The project was done under quite strenuous time constraints due to other responsibilities and thus, was not as fleshed out as I had intended. The home page came along quite nicely, but unfortunately there was not the time or understanding to implement any flask or javascript features. In the theoretical expansion of the project, I would ideally like to restyle the 'Donate' and 'About Us' pages, as well as adding real features to add your own articles, as the website was intended to function as a wiki. Given the external factors, the project still seems to have met most of the functional and non-functional requirements, and still achieves the goal of educating people on stigmatised women's health problems.
