@@ -59,7 +59,7 @@ html{
 
 h2 {
   display: block;
-  font-size: 4em;
+  font-size: 3em;
   margin-top: 0.1em;
   margin-bottom: 0.1em;
   margin-left: 0.1em;
@@ -155,4 +155,9 @@ h2 {
 
 .previewtext{
   margin-bottom: 15px
+}
+
+h4{
+  font-size: 2rem;
+  font-weight: bold;
 }
