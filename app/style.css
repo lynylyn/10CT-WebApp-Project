@@ -102,13 +102,17 @@ h2 {
 }
 
 .articlepreview{
-  width: 25%;
+  width: 24%;
   color: #E1D4C5;
   background-color: #4B4D26;
   border-radius: 25px;
   padding: 10px;
   font-size: 20px;
   margin-bottom: 15px;
+  display: inline-block;
+  margin-left: 10px;
+  height: 325px;
+  vertical-align:top
 }
 
 #previewpfp{

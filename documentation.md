@@ -54,7 +54,7 @@ The impact-effort matrix suggests that the ideas which prioritise entertainment 
 - The website could include:
     - A donation box
 
-# Research and Planner
+# Research and Planning
 ## Explore Existing Ideas
 Idea | Plus | Minus | Implication
 | - | - | - | - |
@@ -72,11 +72,57 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC7887974/
 https://womenshealth.gov/nwhw/day-4-talk-about-it-reducing-womens-health-stigma
 
 ## Primary Research
-Results from the survey tba
+My target market for this product is generally quite broad; it can appeal to doctors (especially those specialising in the care for women) who wish to gather more information or publish their own information, but it also appeals to any everyday person who is interested in helping women medically, learning more about themselves or loved ones, or feel uneducated about the world around them. These were the results I found after surveying 17 high school students:
 
-    <div class="button">
-        Learn More
-        <div id="arrow">
-            <img src="arrow.png" alt="Go to..." style="width:50px;height:50px;">
-        </div>
-    </div>
+![Would a website about women's health help you in any way?](surveyq1.png)
+
+![Do you want to know more about women's health?](surveyq2.png)
+
+"Feel free to explain your answer":
+```
+- i hate health
+- Idk
+- I’m a woman
+- ABSOLUTELY! Women's health is a very important subject, and is definitely not touched upon enough!
+- I feel like I don't know all too much about women's health even though I'm a woman.
+- i just feel that i don't know enough about it
+- I MEAN, EEEEH? LIKE, SURE?
+- I feel like I can support my friends better if I knew more about what they go through
+- I am not a woman yet.
+- cool cool
+- I am interested in health
+```
+
+![Would you say you've been impacted by medical misogyny in any way?](surveyq3.png)
+
+"Feel free to explain your answer":
+```
+- me when stupid doctor tries to give me birth control for mental health problems (this response has been slightly edited due to sensitive topics)
+- idk if it was because im a ow oanmn
+- Im male
+- I don't think I've ever been severely impacted but there's definitely a bit of stigma and awkwardness when I've brought up issues like missing my period
+- Yes! I feel you. I have experienced so many people just syaing I'm overreacting, and that it can't be that bad!
+- I have only ever had female doctors.
+- :)
+- Man
+- i dunno
+```
+
+"Are there any health conditions you'd want to see on a website like this?":
+```
+- Menstrual and pregnancy health
+- probably Endometriosis and probably things about pregnancy and stis.
+- no
+- PCOS
+- Not in particular, but I'd love to see what you come up with!
+- nOPE
+- The spectrum of PMS, periods, uhh prolly about that much
+- autism.
+- Mental health
+- 🤷‍♀️
+```
+
+The survey results generally show a liking towards the website and a desire to know more about women's health. While many women my age haven't experienced medical misogyny, a notable majority either say they have or they aren't sure. Moving forward, this data will give me some example articles to include in the project, as well as a clearer view of the target demographics.
+
+# Evaluation
+ayo!
