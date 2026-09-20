@@ -22,19 +22,36 @@ html{
   margin-bottom: 20px
 }
 
-a:link {
+.content {
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction:column
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.header a:link {
   color: #E1D4C5;
   background-color: transparent;
   text-decoration: none;
 }
 
-a:hover {
+.header a:hover {
   color: #af9c87;
   background-color: transparent;
   text-decoration: underline;
 }
 
-a {
+.header a {
   color: #E1D4C5;
   background-color: transparent;
   text-decoration: none;
@@ -51,7 +68,6 @@ h2 {
 }
 
 .featuredarticle {
-  width: 50%;
   color: #E1D4C5;
   background-color: #4B4D26;
   border-radius: 25px;
@@ -59,7 +75,6 @@ h2 {
 }
 
 .featuredsummary {
-  width: 50%;
   color: #4B4D26;
   margin-top: 15px;
   margin-left: 10px;
@@ -67,7 +82,7 @@ h2 {
   font-size: 1.5em
 }
 
-.button:link {
+.button {
   background-color: #4B4D26;
   border: none;
   color: #E1D4C5;
@@ -75,11 +90,11 @@ h2 {
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
-  width:25%;
   height:25px;
   border-radius: 25px;
   padding: 10px;
-  font-size: 1.5em;
+  font-size: 1.5rem;
+  margin: 0 6px;
 }
 
 .button:hover {
@@ -88,17 +103,26 @@ h2 {
   text-decoration:none
 }
 
+.button-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: -13px;
+  margin-right: -12px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+}
+
 #arrow {
   z-index: 0;
-  position: relative;
-  bottom: 41px;
-  left: 275px;
 }
 
 .homepageimage{
   color:black;
-  position:relative;
-  bottom:430px;
 }
 
 .articlepreview{
@@ -109,7 +133,8 @@ h2 {
   padding: 10px;
   font-size: 20px;
   margin-bottom: 15px;
-  display: inline-block;
+  display: flex;
+  flex-direction: column;
   margin-left: 10px;
   height: 325px;
   vertical-align:top
@@ -126,4 +151,8 @@ h2 {
   bottom: 44px;
   left: 60px;
   margin-bottom: -23px
+}
+
+.previewtext{
+  margin-bottom: 15px
 }
